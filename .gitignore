@@ -26,7 +26,6 @@ desktop.ini
 remotion-app/out/
 remotion-app/public/audio/
 remotion-app/public/slides/
-remotion-app/src/durations.json
 
 # Build files
 dist/
