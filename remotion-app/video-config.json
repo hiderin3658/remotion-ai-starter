@@ -1,0 +1,8 @@
+{
+    "tts": {
+        "provider": "gemini",
+        "gender": "male",
+        "useNanoBanana": true,
+        "gcpCredentialsPath": "../google-credentials.json"
+    }
+}
