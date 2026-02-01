@@ -1,0 +1,33 @@
+# Credentials
+google-credentials.json
+.env
+
+# Dependencies
+node_modules/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE & Agent specific
+.agent/
+.agents/
+.claudex/
+.claude/
+.codex/
+.cursor/
+.gemini/
+.windsurf/
+.vscode/
+.idea/
+
+# Remotion App Generated Assets
+remotion-app/out/
+remotion-app/public/audio/
+remotion-app/public/slides/
+remotion-app/src/durations.json
+
+# Build files
+dist/
+build/
